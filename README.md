@@ -2,9 +2,8 @@
 - 👀 I’m interested in Health Data Science
 - 🌱 I’m currently learning Cloud technologies
 - 💞️ I’m looking to collaborate on Artificail Intelligence use cases in healthcare and bioinformatics
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ... [LinkedIn Profile ](http://www.linkedin.com/in/adedamolaogundipe)
+
 
 <!---
 Txlu-OG/Txlu-OG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
